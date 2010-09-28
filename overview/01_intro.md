@@ -3,9 +3,9 @@
 ## László Bácsi
 ## [github.com/lackac](http://github.com/lackac)
 
-!SLIDE bullets
-# <del>Three</del> Two things from many
+!SLIDE bullets incremental
+# Three things from many
 
 * Code Organization
 * Ajax Loading Indicator
-* <del>DOM Change Event</del>
+* DOM Change Event
